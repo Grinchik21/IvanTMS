@@ -6,5 +6,6 @@ public class Homework1 {
         int b = 200;
 
         System.out.println(a + b);
+
     }
 }
